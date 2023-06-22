@@ -1,0 +1,11 @@
+git reset --soft <codigo log>
+//se borra uno
+git log --pretty=oneline
+git status
+notepad m6
+git status
+untracked files
+git add .
+git commit -m "C4: Re-writing history"
+4 files changed
+git log --pretty=oneline
