@@ -18,7 +18,8 @@ bash: notapad: command not found(notepad) mal escrito
 git push origin The current branch master has no upstream branch.(falta la rama)
 This is usually caused by another repository pushing(hay otro archivo editandose online)
 
-
+git init(se inicio localmente solamente)
+git add remote origin (aca se agrega remotamente)
 
 
 
