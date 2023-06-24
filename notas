@@ -1,3 +1,7 @@
+git
+(crear una carpeta)
+git init
+
 git reset --soft <codigo log>
 //se borra uno
 git log --pretty=oneline
@@ -9,3 +13,5 @@ git add .
 git commit -m "C4: Re-writing history"
 4 files changed
 git log --pretty=oneline
+bash: notapad: command not found(notepad) mal escrito
+
