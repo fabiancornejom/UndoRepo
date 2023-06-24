@@ -13,5 +13,14 @@ git add .
 git commit -m "C4: Re-writing history"
 4 files changed
 git log --pretty=oneline
+git push origin
 bash: notapad: command not found(notepad) mal escrito
+git push origin The current branch master has no upstream branch.(falta la rama)
+This is usually caused by another repository pushing(hay otro archivo editandose online)
+
+
+
+
+
+
 
