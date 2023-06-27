@@ -58,7 +58,19 @@ clear
 git push -u origin master
 enter for key
 
-
+git push -u origin Blr_Branch
+clear
+git ckeckout Blr_Branch
+git checkout master
+git merge Blr_Branch (se agregan los archovos a master se actualiza)
+git log --pretty=oneline
+git push origin master
+//deleted branch
+git branch -D Blr_Branch (eliminada localmente)
+clear
+git branch -v
+git push origin --delete Blr_Branch (borrar en github)
+git branch commands
 
 
 
