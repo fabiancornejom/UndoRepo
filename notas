@@ -30,6 +30,34 @@ $ git remote add UndoRepo https://github.com/fabiancornejom/UndoRepo.git
 error: remote UndoRepo already exists. (ya se agrego remotamente)
 
  
+mkdir Org_Details
+git init (repositorio vacio)
+notepad name.txt
+notepad employees.txt
+clear
+git status
+git add . 
+clear
+$ git commit -m "First Commit"
+git log --pretty=oneline
+git branch Blr_Branch (se copia la rama)
+git branch -v
+clear
+git checkout Blr_Branch (cambiar a esta rama)
+ls
+notepad address.txt
+git add . 
+git commit -m "Blr Branch Commit"
+git checkout master
+new repository Org_Details
+description : Git Branch Demo
+
+
+
+
+
+
+
 
 
 
