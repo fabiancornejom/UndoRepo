@@ -52,9 +52,11 @@ git checkout master
 new repository Org_Details
 description : Git Branch Demo
 
-
-
-
+git remote add origin https://github.com/fabiancornejom/Org_Details.git
+git checkout master
+clear
+git push -u origin master
+enter for key
 
 
 
