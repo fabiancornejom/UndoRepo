@@ -29,7 +29,7 @@ git revert 76f9dfdd4d17d5407f46d627c7f28f151c19e56c
 $ git remote add UndoRepo https://github.com/fabiancornejom/UndoRepo.git
 error: remote UndoRepo already exists. (ya se agrego remotamente)
 
-
+ 
 
 
 
